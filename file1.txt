@@ -1,1 +1,2 @@
 This is first file in our repository (Git hub)
+Adding second line  in the file for github 
